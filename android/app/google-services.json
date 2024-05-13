@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "660294089940",
+    "project_id": "flutter-firebase-c0711",
+    "storage_bucket": "flutter-firebase-c0711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660294089940:android:e9b3c5272adfd66a100f41",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660294089940-eaavsau5h3j8pr8c29p7pm771t7fs98u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_firebase",
+            "certificate_hash": "6b5f8a4a3a02fc5252b7c54d7ece7e16da8a81f1"
+          }
+        },
+        {
+          "client_id": "660294089940-i4im76uv8jdeb0ni51kp2o06512ufdnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_firebase",
+            "certificate_hash": "3aae82b43fbb126b07e0d85ad54253714cf5fe79"
+          }
+        },
+        {
+          "client_id": "660294089940-7r4bbt02i20li3a3mtr8gtv6en0l98mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfOO5HkYnBaH_egEVojtsz-Jku9naInI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660294089940-7r4bbt02i20li3a3mtr8gtv6en0l98mg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "660294089940-kmp4dmo6h3ggjr56m0rsvb45b7qqvcfl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660294089940:android:5ab4cef202e7bd2c100f41",
+        "android_client_info": {
+          "package_name": "com.example.smartparking_admin_web_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660294089940-7r4bbt02i20li3a3mtr8gtv6en0l98mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfOO5HkYnBaH_egEVojtsz-Jku9naInI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660294089940-7r4bbt02i20li3a3mtr8gtv6en0l98mg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "660294089940-kmp4dmo6h3ggjr56m0rsvb45b7qqvcfl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
